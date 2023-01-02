@@ -1,10 +1,10 @@
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-  <p>React learn</p>
-  <h1>First Attempt</h1>
+      <h1>First Attempt</h1>
+      <p>React learn</p>
     </div>
   );
 }
