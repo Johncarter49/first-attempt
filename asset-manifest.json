@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/first-attempt.github.io/FirstAttempt/static/css/main.073c9b0a.css",
-    "main.js": "/first-attempt.github.io/FirstAttempt/static/js/main.99d3dbb7.js",
-    "static/js/787.062f47f4.chunk.js": "/first-attempt.github.io/FirstAttempt/static/js/787.062f47f4.chunk.js",
-    "static/media/logo.svg": "/first-attempt.github.io/FirstAttempt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/first-attempt.github.io/FirstAttempt/index.html",
-    "main.073c9b0a.css.map": "/first-attempt.github.io/FirstAttempt/static/css/main.073c9b0a.css.map",
-    "main.99d3dbb7.js.map": "/first-attempt.github.io/FirstAttempt/static/js/main.99d3dbb7.js.map",
-    "787.062f47f4.chunk.js.map": "/first-attempt.github.io/FirstAttempt/static/js/787.062f47f4.chunk.js.map"
+    "main.css": "/first-attempt/static/css/main.31d6cfe0.css",
+    "main.js": "/first-attempt/static/js/main.3afbef75.js",
+    "index.html": "/first-attempt/index.html",
+    "main.3afbef75.js.map": "/first-attempt/static/js/main.3afbef75.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.99d3dbb7.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3afbef75.js"
   ]
 }
